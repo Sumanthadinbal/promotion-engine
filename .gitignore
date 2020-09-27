@@ -1,0 +1,8 @@
+# Build directories
+target/*
+
+.classpath
+.project
+.settings/
+
+/target/
